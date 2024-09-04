@@ -57,7 +57,7 @@ public class HospitalManagementSystemGUI extends JFrame {
         ageField = new JTextField();
         genderField = new JTextField();
 
-        panel.add(new JLabel("Name:"));
+        panel.add(new JLabel("name:"));
         panel.add(nameField);
         panel.add(new JLabel("Age:"));
         panel.add(ageField);
