@@ -24,9 +24,7 @@
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files>
-      <object connection-id="48991569-40fb-4910-b724-f52ee645ba57" object-ref="consoles/Hospital Management Connection" />
-    </open-files>
+    <open-files />
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="48991569-40fb-4910-b724-f52ee645ba57" />
